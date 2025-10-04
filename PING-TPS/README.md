@@ -6,7 +6,7 @@ A lightweight plugin for [Starfish Proxy](../README.md) that adds global `/ping`
 
 - `/ping` – Fetches your current latency and prints it with colored formatting.
 - `/tps` – Displays the average server ticks-per-second based on recent world age updates.
-- Safe proxy integration: read-only packet usage, no actionbar spam, and automatic cleanup on disable.
+- Safe proxy integration: read-only packet usage and automatic cleanup on disable.
 
 ## Installation
 
