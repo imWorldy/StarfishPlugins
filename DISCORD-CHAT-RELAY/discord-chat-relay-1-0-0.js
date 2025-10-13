@@ -458,4 +458,5 @@ class DiscordChatRelay {
       this.api.debugLog(`[discord-relay] ${message}`);
     }
   }
+
 }
