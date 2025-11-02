@@ -9,7 +9,7 @@ module.exports = (api) => {
     displayName: 'Spell Guard',
     prefix: '§dSG',
     version: '1.1.0',
-    author: 'Codex',
+    author: 'imWorldy',
     description: 'Autocorrects outgoing chat using a LanguageTool-compatible API before forwarding to the server.'
   });
 
