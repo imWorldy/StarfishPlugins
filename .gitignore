@@ -1,0 +1,12 @@
+# Generated archives
+*.zip
+*.tar
+*.tar.gz
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor backups
+*~
+*.swp
